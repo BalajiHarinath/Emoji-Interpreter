@@ -1,2 +1,2 @@
-# Emoji-Interpretor
+# Emoji-Interpreter
 Created with CodeSandbox
