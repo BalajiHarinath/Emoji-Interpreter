@@ -10,7 +10,8 @@ var emojiDictionary = {
   "😴": "sleeping",
   "😠": "angry",
   "😲": "astonished",
-  "😋": "tasty"
+  "😋": "tasty",
+  "😆": "grinning"
 };
 export default function App() {
   var emojiList = Object.keys(emojiDictionary);
